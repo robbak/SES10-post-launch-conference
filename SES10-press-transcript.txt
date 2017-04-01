@@ -1,0 +1,199 @@
+Good evening everyone, this is the post-launch news conference for the SpaceX SES-10 Mission. Here tonight to give us a status of the launch and the mission is Elon Musk, CEO and lead designer, SpaceX; "Alright" and Martin Halliwell chief Technology Officer, SES.
+
+We'll start now with Elon Musk.
+
+E: I already gave some basic remarks on the webcast, but this represents the culmination of continuous work at SpaceX to be able to re-fly a rocket booster. The most expensive part of a whole mission from a launch standpoint is the boost stage. It represents, depending on how you count it, up to 70% of the cost of the flight. So being able to re-fly the rocket booster ultimately with the only thing changing between flights being the propellant, is that, at least for that portion of the flight, the cost reduction potentially is over 100, over a factor of 100. In fact, all of the propellant cost for the flight is just .3% of the cost of the rocket, uh, of the mission. So, um, even when you factor in maintenance and capitalisation of the cost of the rocket, the potential is there, just as it is with air flights or road travel or anything in transport, the potential is there for over 100-fold reduction in cost of access to space, which means that it - if we could achieve that - if SpaceX and others will also do the same - it means that humanity can become a space-faring civilization, be out there among the stars. This is what we want for the future. 
+
+So, yeah (laughter)
+
+M: Well, absolutely wonderful day, absolutely outstanding - what an amazing mission for SES-10 - it's a perfect mission, we have a perfect orbit, we have acquisition of the satellite. We actually got acquisition of the satellite around about 35 minutes earlier than we expected. In fact, of all the three missions we have had with SpaceX this is absolutely the most calm, no problems whatsoever, absolutely smooth mission, so it really could not have gone better. We are hugely, hugely excited by this. To be part of this, I think we made a little bit of history today, actually. Just to open the door into a whole new era of spaceflight, and to be part of that I feel very privileged. And it is great thanks to Elon all the people of SpaceX who really made this possible, and just pushed us forward to the next stage. So bring it on, fantastic.
+
+E: And I'd like to say, thanks for taking a chance on SpaceX. It's not the first time you've taken a chance on us, and I just really want to say thank you for having the faith...
+
+M: Thanks Elon. Actually, several people have said, asked of me the other day, "Oh, you're taking a big risk, " 
+
+E: Right, SES got a lot of flak by the way...
+
+M: Nah, we got a lot of flak it's a...; I said to some of you guys the other day, "You've got to decouple the emotion from the engineering, (E: right) you know, and that's the most important thing. And the engineering team that Elon has working for him is really second to none, and he asks very simple, profound questions, and he gets very good answers, and the proof is in the pudding, here we are - we did it. We did it together, (E: Thank you) and it was absolutely fantastic.
+
+(Applause)
+
+So we are not going to take some questions here in the room. When you're recognised, please state your name, and your affiliation, and ask you that you also please wait until the microphone comes to you. We do have a limited amount of time this evening, .. I did want to admit that, but we'd like to begin now with Marcia Dunn. 
+
+MD: Marcia Dunn, Associated Press, from Mister Musk (E: Hey, Marcia)- Will you re-fly this booster, and when is your next flight of a reused booster, whether this one or another one.
+
+E: We actually have several re-flights planned for later this year. If all goes well, I think we may fly as many as six, maybe do as many as six re-flights. For Falcon Heavy, two of those boosters, the two side boosters are re-flown boosters - that alone will be two cores right there - in fact, that'll be an exciting mission, one way or another - hopefully in the good direction. (L). We're not going to fly anything - we'll probably fly something really silly on the first flight of Falcon Heavy, cause it is quite a high risk mission. But in terms of the things to look forward to later this year, I think that'll be quite fun, because the two side boosters will come back and do sort of a synchronised aerial ballet and land - two of the side boosters will land back at the cape. That'll be pretty exciting to see two come in simultaneously, and the centre core will land down-range on the drone-ship. If all goes according to plan which.. Her, Her, rockets... So...
+
+MD: What about this one, will you fly this one again? 
+
+E: We think this one sort of has some historic value. So we are thinking of seeing if perhaps the Cape might to have it as something to remember the moment. So we were going to present it as a gift to. Yeah.
+
+BH: Bill Harwood, CBS News. You know, Elon, I got an email from a retired Shuttle engineer who goes all the way back to Apollo, and his email was sent to me and it said, "It ain't bragging if you do it.".(Laughter) And, ah, what message does this message give to your competitors. You mentioned the space industry earlier but, it seems like - Well, I'll ask you: do you think other people are going to follow in your footsteps, or do you think this is something you're going to be doing exclusively in the near term.
+
+E: I think hopefully this will - inform the decisions of other space organizations. And really this has been thought to be either really too hard or not really feasible, and I think we've shown that something a lot of people thought was somewhere between impossible or 'you just shouldn't do it' to 'hey, it works', and then I think in order to be competitive in launch costs I think it is going to be necessary for other launch companies to do the same thing. Just as you can imagine if that we were an aircraft company, selling aircraft that can be flown many times, and everyone else was selling aircraft that can be flown once, well, I mean, you know - that's not a very competitive position to be in. You really want to have aircraft that can be flown lots of times.
+
+Once it is clear that some thing can be done, then I think that will encourage others in that direction -I hope it does. Because I think there shouldn't be just SpaceX, there should be many launch companies that succeed.
+
+IK: Thanks for coming over, congratulations; Irene Klotz, with Reuters (E: Unclear - Been there for like, 10 years, many more??) Do you have other customers that were not as, perhaps brave as Mr Halliwell here, (E : Safe to say um..), and tell us what you think a life limiting factor will be now, in the first stage, how many times you think you'll be able to fly....
+
+E: Sure. I'd like to say that NASA's been incredibly supportive, in terms of pushing the envelope with new things, and then, on the commercial side, SES has been by far the most supportive. I couldn't say enough, thank you enough. So the next thing is to try to figure out how do we achieve very rapid reuse, with minimal refurbishment, and minimal - without any sort of hardware changes in the vehicle. With this being the first re-flight, we were incredibly paranoid about everything. So we sort of ... The core airframe remained the same, the engines remained the same, but any sort of auxiliary components that we thought might be slightly questionable we changed out. So now our aspirations will be zero hardware changes, re-flight in 24 hours, the only thing that changes is we reload propellant. Um, we might get this toward the end of this year, if not this year I'm confident we'll get there next year. 
+
+IK: So without inspections, no inspections, you'd just re-fly..
+
+E: Oh, you look at it, you have a day. They'd certainly inspect it, and there will be quite a lot of on-board health monitoring. There's a lot of sensors on board to say whether things are good or if they are not. The on-board heath-check system - just a lot of sensors that confirm the health of the rocket. Just like aircraft, really. 
+
+I'd like to take a question from the phone please, we have on the line Chris Davenport, from the Washington Post.
+
+CD: Hi Elon, thanks for taking the call. Just want to follow up on Bill Harwood's question, you just said that this is a real significant moment not just for SpaceX, but for the industry as a whole. Blue Origin and others are obviously working on reusability, but Bezos just showed an artist's rendering of a Ship, that looked a lot like your drone ship, and we were wondering what your reaction to that was, and their plans that really seem to be copying yours.
+
+E: What is that saying about the best form of flattery? (Laughter) Actually, I think it is good. Frankly, as a company it shows that the path is working, then other companies should copy that, I mean, it'd be silly not to. You wouldn't want to arbitrarily not do the right thing simply because some other company has. So I think that it is the right move to - well obviously we think it's right because it's the decision we made, it is that rapid and complete reusability of rockets is really key to opening up space, and becoming a space-fairing civilization, a multi-planet species and having the future be something that's incredibly exciting and inspiring and that we all look forward to.
+
+All right, we'll have a question from the phone please. It's Dave Mosher from Business Insider. 
+
+DM:
+
+E: Oh, actually, one little bit of breaking news which .. The fairing, the big nose cone - the top of the rocket, that actually successfully landed as well. (Audience: Wow, laughter, applause) That was definitely the cherry on the cake. So we actually have a parachute that - the fairing has it's own thruster control system and a steerable parachute. So it's its own little space craft. So the thrusters maintain its orientation as it comes in, as it reenters, and then we throw out the parachute and the parachute steers it to a particular location, and I just was shown a picture of an intact fairings half, floating in the ocean, (Audience: with the SES logo on it, M: It's the wrong half.. E:It's the half without the M:it's got a US flag on it.) But, yeah, that's really exciting - cause that fairing, which it's over 5m diameter, it just - you can fit a bus inside that fairing, and it costs 6 million dollars to make that fairing, and at one point we were debating, should we recover it or not, and I was like, "Guys, imagine you had 6 million dollars in cash in a pallet flying through the air, and it was going to smash into the ocean - would you try to recover that? Yes, yes you would. So, rather than have it smash into tiny pieces, it looks, that's looking quite promising. Yeah, so maybe what we'll have is kinda like a bouncy castle for it to land on, and then aim to reuse the fairing as well. And then the only thing left is the upper stage, which - we didn't originally intend for Falcon 9 to have reusable upper stage, but: it might be fun to try like a hail Mary and, yeah - what's the worst thing that could happen, it blows up, it blows up away. ( M: Elon, we need to discuss this...(Laughter) ) Yes, we need...
+
+Dave, did that answer your question, I didn't want.. I want to make sure you've got your question.
+
+DH: You answered part of my question about the second stage, but I wanted to know, like how it fits in now that you've done this, how does it fit in with your grand scheme, your grand plan here to get to Mars, to launch astronauts and things like that: how does it affect those plans, and will you re-fly boosters with astronauts on top, how does this affect the Mars plan forward.
+
+E: This is really a critical part of the mars plan, if you consider the goal of Mars is not to be a single mission, but one where we establish a self sustaining city on Mars. In order to do that, there's some threshold cost in terms of the cost per tonne to the surface of Mars that has to be achieved in order for that to be feasible. If that cost per tonne exceeds the gross world product of Earth, which it currently does, then that's obviously not going to happen. There needs to be at least a hundred-fold, if not perhaps a thousand-fold reduction in the cost per tonne to Mars. Actually, maybe 10-thousand fold. And reusability is absolutely fundamental to that goal. So this, I think is very helpful to prove a point, that it's possible, and I hope people start to think that as a real goal, to which we should aspire, to establish a civilization on Mars. It's really - this is really not just about humanity, it's about all the life that we care about.
+
+I'd like to go back to the room for questions, Stephen Clarke
+
+SC: Hi Elon, Stephen Clarke, from SpaceFlightNow, thanks for coming by. Couple of questions, First of all, do you have customers who've signed up for reused rocket, future used booster (E: We have one sitting right here) beyond Mr Halliwell. 
+
+E: There's currently - excluding the Falcon Heavy flight that is just basically on SpaceX's dime, nobody's paying us for that because it's a demonstration flight, essentially a test flight, that's two of the reused boosters, there are I think 3 or 4 others that have signed up on a contingency basis - like, if this one works, then sure - and so I think probably we'll see more of those customers being willing to go on a - I should use the right terminology - Flight Proven Booster. That's right, Flight Proven. 
+
+SC: Touché. I have a follow-up as well, Could you update us on where Falcon Heavy is - I know you are testing things at McGregor right now, (E: Sure.) where are you at with qualification of hardware, and what's driving the launch date and do you expect it to debut here.
+
+E: Falcon Heavy was one of those things that sounds - at first it sounded easy: we'll just take two first stages and use them as strap-on boosters. And like - actually, no, this is crazy hard, and required redesign of the centre core and a tonne of additional hardware. It was actually shockingly difficult to go from single core to a triple core vehicle, and we're now done with the testing, and the cores are in final fabrication, I think they finish in about 2 or 3 months, so our expectation is probably a late summer launch of Falcon Heavy. 
+
+James Dean...
+
+JD: James Dean, Florida Today...
+
+E: I'll just still say: Our priority is still launching our.. Since we have a backlog, because of the, we had a whole gap of time as we recovered from the Issue we had last year, our priority is of course making sure that we launch our customers, so Falcon Heavy necessarily is a second priority to making sure that our customer's needs are met.
+
+JD: James Dean, Florida Today; Elon how confident were you going into the countdown, and through that first booster phase; and then, just regarding reusability: in one of the concerns I guess is about the flight rate, you'll need to make it pay off - even those who are for it, you know, say "well, you've got to launch this many times to make it worth it", so for you, what do you think, is today the day to celebrate, or maybe years from - what flight rate do you need and how long is it going to take?...
+
+E: I think just a little celebration is in order... If you just say, how much effort has SpaceX put into Falcon reusability, and nobody was paying us for reusability, so it had to be on our own dime, it's probably - at least a billion dollars that we spent developing this, so it'll take a while to pay that off. And then we need to get really efficient with the reuse of boosters and with the fairing. So I would expect the economics to start becoming sensible next year - so it's pretty close - and we expect the boosters to .. I mean, with no refurbishment, be capable of 10 flights, and with moderate refurbishment to be capable of 100 flights. So you can imagine that if the cost of the rocket is say 60 million dollars - really we're not re-using the whole thing, but - with the fairing, assuming fairing reuse works out, and as we optimise the cost of the reuse of the booster, really looking at maybe 3/4 of the rocket cost dropping by an order of magnitude, maybe more.
+
+JD: Were you confident going into today?
+
+E: Well, you know, I did have, like, two boxes of Zanax, that helped . So, I was oddly.. I felt calmer than I should, I should really feel - I was actually oddly enough, I was nervous that I wasn't nervous enough. Nested level of fear, nested fear. But I felt oddly calm, and, um, yeah, it worked out as well as one could expect, and it is really credit to the SpaceX team for doing an amazing job. 
+
+LG: Laruren Gresh with the Verge: I was wondering if you could talk about the new facility that you guys have on Cape, and how that will work into the refurbishment process of rockets, and if we're addressing reusability today, I wonder if you could talk about the robot that we've seen on the drone ship lately.
+
+E: What robot? What are you talking about? We have a refurbishment facility at the Cape. Most of the refurbishment will been done at the launch site itself, we've got space at 39A and we're putting space at 40 and there's also a separate rocket, sort of rocket hangar actually for the rocket fleet. Rocket fleet's getting kind of big, so there'll be sort of a like a forest of rocket boosters. There's about another 20 flights or something this year, something in that order. If most of those succeed, we're going to need quite a big hangar. So, yeah, there's facilities for that - and the robot thing is - in order to secure the rocket remotely. We can't put any people on board if the rocket is sliding around, it's too dangerous, so the little droids that people have seen are in order to remotely secure the legs of the rocket, and so the rocket is stabilized, doesn't move around, and even in high seas we can still have a crew board the drone ship and safe the rocket.
+
+LG: Can you say when we'll see that one in action?
+
+E: Actually, it might be - certainly within the next few months. Today was fine, because the seas were so calm the rocket's not moving around, and so we don't really need the droids. But it's kind of more a heavy seas situation. We had that one where it was quite stormy, and the booster was like sliding from one side of the drone ship to the other, and the only thing that stopped it from going overboard was there was like a lip on the edge, it was like banging against the lip on this side, the other side, banging on the lip ... But it made it to port. 
+
+Robinson Manuel, with the New York Observer, with the New York Observer, Could you give us an update on the development of the Interplanetary Transport System, and what's next in terms of - what's the next component to be tested following the carbon fuel tank and the Raptor engine, what's next?
+
+E: So, I think we'll provide an update on the design of the Interplanetary Transport System - Interplanetary Transport System also includes the propellant depot on Mars - that's why it's sort of - I actually usually don't like the word 'system', but we can't call it a rocket if it includes a propellant depot. So the Mars planetary transporter or Mars Transporter, or Interplanetary Transporter - We've come up with a number of design refinements, and I think we'll probably be ready to put that on the Website within a month or so.
+
+RM: Just one follow-up, The time frame has kind of shifted since Guadalajara, I was wondering if if you guys had any updated time frame of when you think that first mission will be launched - If I'm correct, the first one is uncrewed, correct?
+
+E: Yeah the first ones will be uncrewed. I don't want to steal thunder from that announcement. I'm pretty excited about the updated strategy since Guadalajara, it makes a lot more sense, it's  - we have to not just get it done technically, but figure out how to get this done without going bankrupt. So it's like, our goal is to get people on Mars before we're dead, and the company is dead. So like, neither one can die. Ideally, because we don't want to take so long that we're dead by when that happens, and we don't want to kill the company in the process. So we have to figure out not just solve the technical issues, but the economic issues. And I think the new approach is going to be able to do that. Hopefully.
+
+I like to go back and take some more questions on the phone, next on the line is Alex Nat, from Forbes. Go ahead, Alex.
+
+AN: Hi Elon, thanks for taking my call, I have to ask, ... As the .. A question, what is the pricing discount on a flight proven launch option versus a standard option. 
+
+E: Actually we're trying to figure that out, but it will be a meaningful discount, we do have figure out some way to pay off the development costs of reusability, so the prices can not be as .. Prices can not be as much as the price savings, because we need to repay the massive development cost, but it will certainly be less than the current price of the rocket, obviously, and will be far lower than any other rocket in the world.
+
+AN: Thank you.
+
+Next question is also on the phone, it is Kery Sheridan, from Ajants france press
+
+KS: Hi, thanks for taking my call, Could you just repeat for me, I'm not sure if I heard you correctly, how many times might you be able to reuse one of the boosters, both for one that's been reworked a lot like this one, and one that has undergone minimal refurbishment. Thanks.
+
+E: The design intent is that the rocket can be re-flown with zero hardware changes. In other words, the only thing that changes is you reload propellant, 10 times. And then with moderate refurbishment that doesn't have a significant effect on the cost, it can be re-flown at least 100 times. Actually, really, make that a thousand but it's probably not that important(?). But the Mars vehicle, the booster will be designed for a thousand flights.
+
+Let go back into the room, Ken Krimer, please?
+
+KK: Hi, thanks; Ken Krimmer, Universe today: Thanks for doing this, congratulations on the flight. So, my question is about the refurbishment - what is the lessons you have learned? You got 8 cores back, and you've got one today, there has to be some things that are used more, that are more prone to failure. So, what are those, what are the things that keep you up at night. What are lessons you have learned and implemented. And the second question would be, for your moon-shot - are you going to have a vigorous science program, any science program, and can you tell us about it, thanks.
+
+E: Sure, well I want to be sure we don't wire this press conference into all things, because today is really about the fact that the rocket booster was re-flown and succeeded, so I want to contain things to that cause there's lots of other exciting things in the future - that'd be a very long press conference if we did all that. Technical elements that are most tricky, I think, for reuse is - the base heat-shield for the rocket, the grid fins. If you saw on the webcast, you may have noticed that the grid fins were lighting on fire. So we actually have a new design for the grid fin that is quite a bit more advanced than the current one. And it's... , I believe it will be the largest titanium forging in the world. It's a special alloy of titanium that's very good at high heat flux, whereas this grid fin is made of aluminum, but it's covered in thermal protection so it's - but it gets so hot that it lights on fire a little bit. Which is not very good for reuse. But the new grid fins should be capable of taking a scorching and being fine. And they'll also have significantly more control authority, so, that should improve reusability of the rocket. It will improve the payload to orbit by being able to fly at a higher angle of attack and use the aerodynamic element of the rocket to effectively glide like a fixed wing. It does have an elibidy of roughly 1 if flown at the right angle of attack, but you need control authority, particularly pitch control authority, that's higher than we currently have to achieve that. So grid fins, base heat shield, paint I guess - paint can get a little toasty, so maybe having more of a thermal barrier coating instead of paint. There's a million little things, but I think we've got the base heat shield thing addressed, we've got a good plan for the grid fins, and it's like a bunch of little things that need to be ironed out, but overall we've got a plan to achieve the 24hr, zero hardware change reusability by next year.
+
+KK: Next year, OK.
+
+Another question in the room please: How about Brenden Burn, from WMFE, the intern affiliate, here, with Space Coast.
+
+BB: Yeah, Thanks for taking my question. With that said, with those challenges, and I know it's still a little bit early; with the data that you are getting back from this booster, is there anything that stands out in your mind that you're worried about - Or, how's this booster doing? How do you know?
+
+E: I was looking at the telemetry all the way up and down, everything looked great. It looks... Really good, just eyeballing it, the only things that we need to be addressed on this booster to re-fly it would be to replace the thermal protection on the grid fins and on the base heat shield, and to repaint areas on the rocket where the paint bubbled. I'm not aware of anything else that we'd need to do. 
+
+BB: So, fixable things...
+
+E: Yeah, absolutely; And we've got a plan for all of those elements.
+
+More questions in the room - How about Tim Hurholtz from Quartz.
+
+E: Just elaborate on that thing - one thing that's not sort of well understood about spaceflight is that altitude is really not the thing that maters, it's velocity. It's a little counter-intuitive, because people see a rocket see a rocket pointing up, and it goes straight up, and you think, 'well, OK: the way rockets go to space is they go straight up and then suddenly gravity stops at some point, and that's how you get to space.' That's not at all how it works. And so we have the word orbit. The way things go up and stay up in space is they zoom around the earth so fast that the outward acceleration, outward radial acceleration is equal to the inward acceleration of gravity, they null out, and that's why you don't fall down. And the thing that really is most, is incredibly difficult to deal with is the heat of re-entry. Now, generally this is good thing, because it means that we don't get all pummeled by meteors all the time, because they get burnt up in the upper atmosphere - so it's good. But then if you want to make a rocket come back and not also be vaporized, that's hard. And you can't have this really heavy heat shield, or you won't get any payload to orbit. So the trick is to figure out just the right level of armour in just the right places, with advanced materials, best analytical techniques, so that it's - you have all the thermal protection that you need, but not so much that you don't have any payload to orbit - that's really the trick of it. And actually missions like the ones we just did are the hardest missions, because anything going to geosynchronous transfer orbit means it's a high velocity mission, and that means the booster's coming in really hot - it's coming in fast, which means it's coming in really hot. The peak heating is as the cube of velocity - really nutty to think about - it means that, say the heating difference between mach 1 and mach 8 is 500, roughly. Crazy heating difference. And then, of course, once you pass the melting point of metals, then your thing melts and you're toast. So that's realy the ... It's dealing with that velocity that is the difficult thing.
+
+TH: Tim Hurmholtz from Quartz: Martin, I wanted to ask you, to follow up on something you said earlier, about SES deciding to back SpaceX, you said you had to separate the emotion from the engineering; What emotion are you talking about - is that about SpaceX, or about innovation in the aerospace industry generally...
+
+M No, I was really referring to the comments that we had over the last couple of days when we spoke to the press, and we spoke to the people and we had little press conferences and such like, a lot of people came back and said, "You're taking an inordinate risk here, you have an extremely expensive spacecraft, has a very important mission to do in Latin America, aren't you taking a huge chance here? What I was trying to react to there is to say, "Actually, I don't think we are. Because we'd actually worked through this problem. We worked very, very closely together with SpaceX, and that's really probably why we've done more of these types of missions with SpaceX than anybody else. We've been the first on Proton, all this type of stuff, but with SpaceX we have a certain transparency, we have a certain depth of relationship and also access to engineering specifics through our US citizens that allow us to be able to have that confidence in the fact that the engineering is good, and that we can go ahead with such a mission and make that investment, and be happy that this hugely expensive spacecraft can fly on this particular booster. That's really where I'm coming from, you've got to get away from the ideal that it's second-hand, you know, it (E: Flight Proven) Flight Proven - It may make it, it may not you know - no, no no. That doesn't interest us whatsoever. You actually have to go into this really with a sang froid, you have to go into this really cold blooded, and just work through the various different issues, understand the testing, understand the engineering associated with this, and then you make your decision. And that's exactly what we did. We have 3 more flights this year with SpaceX, on two of those flights we are considering now moving them to pre-flown. 
+
+E: Great, that's good. (Chatter, Laughter.)
+
+TH: Question for you Elon - (E: absolutely) in Mexico you showed us a photo in your presentation, of a very early days at SpaceX, with a mariachi band, and 12 people in a hallway (E: From a Mariachi band to here) Since that time you've mentioned, 15 years, it's been a lot of work, I'm just curious, is this a day of personal satisfaction for you, do you feel vindicated in this mission to lower the cost of space access?
+
+E: Yeah, this is a huge day. My mind's blown, frankly, yeah. I was really quite speechless after all it all happened. It's the culmination of a tremendous amount of work by a very talented team, I can't credit the engineering team, the production team, at SpaceX, you know, the launch team, for what they achieved.
+
+M: Maybe just coupled to the - I think that after we did the SES-8, which was the first commercial GTO mission that we did with SpaceX, I made the comment that the industry will be shaking it it's boots. Oh, I think it's shaking now. I really do.
+
+E: It'll spur change, for the better. M: Hey, that's good.
+
+Another question in the room, how about Marco Santtana, from Orlando Sentinel
+
+MS: I was wondering, little bit off what just said. Could you try to put this into perspective - I mean you had a successful career, obviously successes and failures, .. But could you put it in perspective, on where this fits in with all of that; and the second question I want to ask briefly, is, Why are you keeping the rocket at the cape, when did that decision to keep it here come?
+
+E; It's just this one booster, because it has some historic significance, that we thought having it remain at the cape would be good. The future ones would - Well actually, future ones will probably remain at the cape too, they'll just be going through a, um, just flying, a lot. As we're building up the space fleet. What is the second one?
+
+MS: Where do you fit this in to your whole career?
+
+E: Definitely one of the best things ever (laughter) Not sure - there's 15 years, a lot of blood, sweat and tears.
+
+More questions in the room? 
+
+Fetey Sincerty with the Uniker Phoenix, and there's been a lot of history, there's been quite an amount of history made from LC39A (E: Yeah, it's like Times Square, it's like the - I mean, when NASA said that they would lease it to us, allow us to use that pad, it was a total honour, and that's also where the Apollo 11 moon landing, that's where they launched from, yeah. Coolest launch location that I can possibly think of.) Was this part of your design to lease this pad, or did this...
+
+E: No, it sort of, it came up and,... NASA asked us if we had interest, and we were like, 'Hell Yeah'. 
+
+More questions in the room please, How about ___?? Marcos, from Al ___?, in the back.
+
+Thank you. Elon, as SpaceX currently launches satellites and cargo to the International Space Station, so today's achievement, how could open the door to many new endeavors, in space.
+
+E: Well, I think the key is going to be reduction in the cost of access to space, If... I think, over time, the current architecture of Falcon 9, I think, will certainly allow for a dramatic reduction in the cost of access to space, but then, looking ahead to our next generation vehicle, the big rocket, the current code name is BFR, or Big Falcon Rocket (laughter) I don't know why people laugh, That vehicle, I think, is  really taking all of what we've learned and creates something that is fully reusable, and really, the impact that the primary booster is being designed to re-flight within less than an hour. You could once per hour with the primary booster. And I'm really confident that that architecture, with a high flight rate, which we think will occur, can achieve 100-fold reduction in the cost per unit mass to space, into orbit - or really anywhere in the solar system. So I think what the significance of today is  I think proving that it's possible to do that, at least with the primary booster, and I'm sure next would be the upper stage as well. And I'm highly confident that it is possible to achieve a 100-fold reduction in the cost of space transport, and maybe more. Maybe, I don't know. And so it means, with the same budget, do 100 times more things. Mind blowing, realistically, next level.
+
+Next question from Greg, from Channel 13. Greg Pallone, at the back.
+
+Congratulations; Greg Pallone, News 13, Was wondering, with the kids here, is this an example of recycling, the environment, recycling boosters, teaching them about the environment, personal, dad things...
+
+E: I thought it was like, potential for historic moments so, get to know the kids, and have them see it directly, and they had a good time..
+
+More questions in the room, how about (E: We'll just take a couple more questions ___?) Stephanie Segal, NBC News
+
+SS: Hi, Elon. With reusability now an option, how will you decide which mission will be using flight proven rockets, versus first time, or is solely based on customer requests. 
+
+E: It's customers that are willing to take flight-proven booster, or some will still want to see a lot more flights before they are comfortable with what we will call a flight proven booster. They may use a different term - . So, .. But I .. It does seems as though .. We might do half a dozen, or more, flights of re-flown booster this year, and then next year, probably double that. And then I'd expect that, for the Falcon architecture, over time, probably 3/4 of our missions are with a re-flown booster. 
+
+M: As an operator, I could add to that, my belief is that within 24 months, people like SpaceX, or SpaceX specifically, will offer a service to orbit, and it will be irrelevant. It will be irrelevant if it's new, or it's pre-flown, it'll be irrelevant, within 24 months. That's what this means today. 
+
+E: Yeah. The goal is to make this normal. It's just normal. Like, why are you talking about it? Of course the thing comes back and lands. Why wouldn't it?
+
+We have time for one more question I think, in the room. How about, in the, very back, right there, yes.
+
+CG: NSF: Chris Gebhardt, with NasaSpaceFlight; In terms of more short-term reusability efforts, how does this sort of conform to the bock 5 upgrade to Falcon 9, and for the Falcon Heavy side boosters, is late summer also and indicator of when SLC40 will be back, since we heard that Falcon Heavy wouldn't go from go from 39A until SLC40 is back up.
+
+E: Wow, you really understand the details, you're really in the details there. Yes, that's all approximately correct. So, we need to get 40 up and running again, so that we can start doing single-stick flights from 40, which allows us to do the heavy flights from 39A. Necessarily, 40 would have to be reactivated before 39A was in use for Falcon Heavy. Falcon Heavy, I really want to emphasize, is a high risk - that's a high risk flight. 27 engines are lighting simultaneously. That's a lot of engines. Technically, it should be called a Falcon 27. We thought that, maybe would sound too scary, so we called it Heavy. Yeah. So certainly we wouldn't want to take the risk of something going wrong with that pad, and then having no pad on the east coast, so, gotta get 40 up and running, confirm that's good, and then we can launch Heavy from 39A, and... Block 5, the nomenclature I think is - I think we aren't probably aren't using the right nomenclature - cause, it's more like a point release, than a .. It's ... Block 5 is more like version 2.5 of Falcon 9, is probably the most accurate way to think about it. And the most important part of black 5 will be operating the engines at their full thrust capability, which is about 7 or 8, almost 10% more than what what they currently run at. Number of other improvements to have reusability - goes to the forged titanium grid fins, so that'll bring in a number of factors - block 5, version 2.5 will also incorporate a number of elements that are important to NASA for human spaceflight.
+
+All right, with that, we'll conclude the post launch news conference for the SpaceX SES-10 mission. For more information you can go to SpaceX.com or SES-10, or follow us both on social media. 
+
+
