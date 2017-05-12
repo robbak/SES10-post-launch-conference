@@ -60,9 +60,9 @@ DH: You answered part of my question about the second stage, but I wanted to kno
 
 E: This is really a critical part of the mars plan, if you consider the goal of Mars is not to be a single mission, but one where we establish a self sustaining city on Mars. In order to do that, there's some threshold cost in terms of the cost per tonne to the surface of Mars that has to be achieved in order for that to be feasible. If that cost per tonne exceeds the gross world product of Earth, which it currently does, then that's obviously not going to happen. There needs to be at least a hundred-fold, if not perhaps a thousand-fold reduction in the cost per tonne to Mars. Actually, maybe 10-thousand fold. And reusability is absolutely fundamental to that goal. So this, I think is very helpful to prove a point, that it's possible, and I hope people start to think that as a real goal, to which we should aspire, to establish a civilization on Mars. It's really - this is really not just about humanity, it's about all the life that we care about.
 
-I'd like to go back to the room for questions, Stephen Clarke
+I'd like to go back to the room for questions, Stephen Clark
 
-SC: Hi Elon, Stephen Clarke, from SpaceFlightNow, thanks for coming by. Couple of questions, First of all, do you have customers who've signed up for reused rocket, future used booster (E: We have one sitting right here) beyond Mr Halliwell. 
+SC: Hi Elon, Stephen Clark, from SpaceFlightNow, thanks for coming by. Couple of questions, First of all, do you have customers who've signed up for reused rocket, future used booster (E: We have one sitting right here) beyond Mr Halliwell. 
 
 E: There's currently - excluding the Falcon Heavy flight that is just basically on SpaceX's dime, nobody's paying us for that because it's a demonstration flight, essentially a test flight, that's two of the reused boosters, there are I think 3 or 4 others that have signed up on a contingency basis - like, if this one works, then sure - and so I think probably we'll see more of those customers being willing to go on a - I should use the right terminology - Flight Proven Booster. That's right, Flight Proven. 
 
@@ -92,7 +92,7 @@ LG: Can you say when we'll see that one in action?
 
 E: Actually, it might be - certainly within the next few months. Today was fine, because the seas were so calm the rocket's not moving around, and so we don't really need the droids. But it's kind of more a heavy seas situation. We had that one where it was quite stormy, and the booster was like sliding from one side of the drone ship to the other, and the only thing that stopped it from going overboard was there was like a lip on the edge, it was like banging against the lip on this side, the other side, banging on the lip ... But it made it to port. 
 
-Robin... Robinson Manuel, with the New York Observer, Could you give us an update on the development of the Interplanetary Transport System, and what's next in terms of - what's the next component to be tested following the carbon fuel tank and the Raptor engine, what's next?
+Robin... Robin Seemangal, with the New York Observer, Could you give us an update on the development of the Interplanetary Transport System, and what's next in terms of - what's the next component to be tested following the carbon fuel tank and the Raptor engine, what's next?
 
 E: So, I think we'll provide an update on the design of the Interplanetary Transport System - Interplanetary Transport System also includes the propellant depot on Mars - that's why it's sort of - I actually usually don't like the word 'system', but we can't call it a rocket if it includes a propellant depot. So the Mars planetary transporter or Mars Transporter, or Interplanetary Transporter - We've come up with a number of design refinements, and I think we'll probably be ready to put that on the Website within a month or so.
 
@@ -100,7 +100,7 @@ RM: Just one follow-up, The time frame has kind of shifted since Guadalajara, I 
 
 E: Yeah the first ones will be uncrewed. I don't want to steal thunder from that announcement. I'm pretty excited about the updated strategy since Guadalajara, it makes a lot more sense, it's  - we have to not just get it done technically, but figure out how to get this done without going bankrupt. So it's like, our goal is to get people on Mars before we're dead, and the company is dead. So like, neither one can die. Ideally, because we don't want to take so long that we're dead by when that happens, and we don't want to kill the company in the process. So we have to figure out not just solve the technical issues, but the economic issues. And I think the new approach is going to be able to do that. Hopefully.
 
-I like to go back and take some more questions on the phone, next on the line is Alex Nat, from Forbes. Go ahead, Alex.
+I like to go back and take some more questions on the phone, next on the line is Alex Knapp, from Forbes. Go ahead, Alex.
 
 AN: Hi Elon, thanks for taking my call, I have to ask, ... As the .. A question, what is the pricing discount on a flight proven launch option versus a standard option. 
 
@@ -108,21 +108,21 @@ E: Actually we're trying to figure that out, but it will be a meaningful discoun
 
 AN: Thank you.
 
-Next question is also on the phone, it is Kery Sheridan, from Agence France-Presse
+Next question is also on the phone, it is Kerry Sheridan, from Agence Franne-Presse
 
 KS: Hi, thanks for taking my call, Could you just repeat for me, I'm not sure if I heard you correctly, how many times might you be able to reuse one of the boosters, both for one that's been reworked a lot like this one, and one that has undergone minimal refurbishment. Thanks.
 
 E: The design intent is that the rocket can be re-flown with zero hardware changes. In other words, the only thing that changes is you reload propellant, 10 times. And then with moderate refurbishment that doesn't have a significant effect on the cost, it can be re-flown at least 100 times. Actually, really, make that a thousand but it's probably not that important(?). But the Mars vehicle, the booster will be designed for a thousand flights.
 
-Let go back into the room, Ken Krimer, please?
+Let go back into the room, Ken Kremer, please?
 
-KK: Hi, thanks; Ken Krimmer, Universe today: Thanks for doing this, congratulations on the flight. So, my question is about the refurbishment - what is the lessons you have learned? You got 8 cores back, and you've got one today, there has to be some things that are used more, that are more prone to failure. So, what are those, what are the things that keep you up at night. What are lessons you have learned and implemented. And the second question would be, for your moon-shot - are you going to have a vigorous science program, any science program, and can you tell us about it, thanks.
+KK: Hi, thanks; Ken Kremer, Universe today: Thanks for doing this, congratulations on the flight. So, my question is about the refurbishment - what is the lessons you have learned? You got 8 cores back, and you've got one today, there has to be some things that are used more, that are more prone to failure. So, what are those, what are the things that keep you up at night. What are lessons you have learned and implemented. And the second question would be, for your moon-shot - are you going to have a vigorous science program, any science program, and can you tell us about it, thanks.
 
 E: Sure, well I want to be sure we don't wire this press conference into all things, because today is really about the fact that the rocket booster was re-flown and succeeded, so I want to contain things to that cause there's lots of other exciting things in the future - that'd be a very long press conference if we did all that. Technical elements that are most tricky, I think, for reuse is - the base heat-shield for the rocket, the grid fins. If you saw on the webcast, you may have noticed that the grid fins were lighting on fire. So we actually have a new design for the grid fin that is quite a bit more advanced than the current one. And it's... , I believe it will be the largest titanium forging in the world. It's a special alloy of titanium that's very good at high heat flux, whereas this grid fin is made of aluminum, but it's covered in thermal protection so it's - but it gets so hot that it lights on fire a little bit. Which is not very good for reuse. But the new grid fins should be capable of taking a scorching and being fine. And they'll also have significantly more control authority, so, that should improve reusability of the rocket. It will improve the payload to orbit by being able to fly at a higher angle of attack and use the aerodynamic element of the rocket to effectively glide like a big cylinder. It does have an L/D of roughly 1 if flown at the right angle of attack, but you need control authority, particularly pitch control authority, that's higher than we currently have to achieve that. So grid fins, base heat shield, paint I guess - paint can get a little toasty, so maybe having more of a thermal barrier coating instead of paint. There's a million little things, but I think we've got the base heat shield thing addressed, we've got a good plan for the grid fins, and it's like a bunch of little things that need to be ironed out, but overall we've got a plan to achieve the 24hr, zero hardware change reusability by next year.
 
 KK: Next year, OK.
 
-Another question in the room please: How about Brenden Burn, from WMFE, the intern affiliate, here, with Space Coast.
+Another question in the room please: How about Brendan Byrne, from WMFE, the intern affiliate, here, with Space Coast.
 
 BB: Yeah, Thanks for taking my question. With that said, with those challenges, and I know it's still a little bit early; with the data that you are getting back from this booster, is there anything that stands out in your mind that you're worried about - Or, how's this booster doing? How do you know?
 
@@ -132,11 +132,11 @@ BB: So, fixable things...
 
 E: Yeah, absolutely; And we've got a plan for all of those elements.
 
-More questions in the room - How about Tim Hurholtz from Quartz.
+More questions in the room - How about Tim Fernholz from Quartz.
 
 E: Just elaborate on that thing - one thing that's not sort of well understood about spaceflight is that altitude is really not the thing that maters, its velocity. It's a little counter-intuitive, because people see a rocket see a rocket pointing up, and it goes straight up, and you think, 'well, OK: the way rockets go to space is they go straight up and then suddenly gravity stops at some point, and that's how you get to space.' That's not at all how it works. And so we have the word orbit. The way things go up and stay up in space is they zoom around the earth so fast that the outward acceleration, outward radial acceleration is equal to the inward acceleration of gravity, they null out, and that's why you don't fall down. And the thing that really is most, is incredibly difficult to deal with is the heat of re-entry. Now, generally this is good thing, because it means that we don't get all pummeled by meteors all the time, because they get burnt up in the upper atmosphere - so it's good. But then if you want to make a rocket come back and not also be vaporized, that's hard. And you can't have this really heavy heat shield, or you won't get any payload to orbit. So the trick is to figure out just the right level of armour in just the right places, with advanced materials, best analytical techniques, so that it's - you have all the thermal protection that you need, but not so much that you don't have any payload to orbit - that's really the trick of it. And actually missions like the ones we just did are the hardest missions, because anything going to geosynchronous transfer orbit means it's a high velocity mission, and that means the booster's coming in really hot - it's coming in fast, which means it's coming in really hot. The peak heating is as the cube of velocity - really nutty to think about - it means that, say the heating difference between mach 1 and mach 8 is 500, roughly. Crazy heating difference. And then, of course, once you pass the melting point of metals, then your thing melts and you're toast. So that's realy the ... It's dealing with that velocity that is the difficult thing.
 
-TH: Tim Hurmholtz from Quartz: Martin, I wanted to ask you, to follow up on something you said earlier, about SES deciding to back SpaceX, you said you had to separate the emotion from the engineering; What emotion are you talking about - is that about SpaceX, or about innovation in the aerospace industry generally...
+TH: Tim Fernholz from Quartz: Martin, I wanted to ask you, to follow up on something you said earlier, about SES deciding to back SpaceX, you said you had to separate the emotion from the engineering; What emotion are you talking about - is that about SpaceX, or about innovation in the aerospace industry generally...
 
 M No, I was really referring to the comments that we had over the last couple of days when we spoke to the press, and we spoke to the people and we had little press conferences and such like, a lot of people came back and said, "You're taking an inordinate risk here, you have an extremely expensive spacecraft, has a very important mission to do in Latin America, aren't you taking a huge chance here? What I was trying to react to there is to say, "Actually, I don't think we are. Because we'd actually worked through this problem. We worked very, very closely together with SpaceX, and that's really probably why we've done more of these types of missions with SpaceX than anybody else. We've been the first on Proton, all this type of stuff, but with SpaceX we have a certain transparency, we have a certain depth of relationship and also access to engineering specifics through our US citizens that allow us to be able to have that confidence in the fact that the engineering is good, and that we can go ahead with such a mission and make that investment, and be happy that this hugely expensive spacecraft can fly on this particular booster. That's really where I'm coming from, you've got to get away from the idea that it's second-hand, you know, it (E: Flight Proven) Flight Proven - It may make it, it may not you know - no, no no. That doesn't interest us whatsoever. You actually have to go into this really with a sang froid, you have to go into this really cold blooded, and just work through the various different issues, understand the testing, understand the engineering associated with this, and then you make your decision. And that's exactly what we did. We have 3 more flights this year with SpaceX, on two of those flights we are considering now moving them to pre-flown. 
 
@@ -150,7 +150,7 @@ M: Maybe just coupled to the - I think that after we did the SES-8, which was th
 
 E: It'll spur change, for the better. M: Hey, that's good.
 
-Another question in the room, how about Marco Santtana, from Orlando Sentinel
+Another question in the room, how about Marco Santana, from Orlando Sentinel
 
 MS: I was wondering, little bit off what just said. Could you try to put this into perspective - I mean you had a successful career, obviously successes and failures, .. But could you put it in perspective, on where this fits in with all of that; and the second question I want to ask briefly, is, Why are you keeping the rocket at the cape, when did that decision to keep it here come?
 
@@ -162,7 +162,7 @@ E: Definitely one of the best things ever (laughter) Not sure - there's 15 years
 
 More questions in the room? 
 
-Fetey Sincerty with the Uniker Phoenix, and there's been a lot of history, there's been quite an amount of history made from LC39A (E: Yeah, it's like Times Square, it's like the - I mean, when NASA said that they would lease it to us, allow us to use that pad, it was a total honour, and that's also where the Apollo 11 moon landing, that's where they launched from, yeah. Coolest launch location that I can possibly think of.) Was this part of your design to lease this pad, or did this...
+Thaddeus Cesari, Utica Phoenix, and there's been a lot of history, there's been quite an amount of history made from LC39A (E: Yeah, it's like Times Square, it's like the - I mean, when NASA said that they would lease it to us, allow us to use that pad, it was a total honour, and that's also where the Apollo 11 moon landing, that's where they launched from, yeah. Coolest launch location that I can possibly think of.) Was this part of your design to lease this pad, or did this...
 
 E: No, it sort of, it came up and,... NASA asked us if we had interest, and we were like, 'Hell Yeah'. 
 
@@ -178,7 +178,7 @@ Congratulations; Greg Pallone, News 13, Was wondering, with the kids here, is th
 
 E: I thought it was like, potential for historic moments so, get to know the kids, and have them see it directly, and they had a good time..
 
-More questions in the room, how about (E: We'll just take a couple more questions ___?) Stephanie Segal, NBC News
+More questions in the room, how about (E: We'll just take a couple more questions ___?) Stephanie Siegal, NBC News
 
 SS: Hi, Elon. With reusability now an option, how will you decide which mission will be using flight proven rockets, versus first time, or is solely based on customer requests. 
 
